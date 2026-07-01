@@ -1,4 +1,4 @@
-# Template project for creating GitHub published Solutions
+# SM Profile Import
 
 # Disclaimer
 
@@ -24,7 +24,10 @@ PTC is not responsible for any maintenance for this software.
 
 # Overview
 
-DESCRIPTION
+The SM Profile Import Building Block is a solution that:
+* Allows for the import of SM profiles
+*	Allows for the creation of thing models based on SM Profiles
+
 
 All content is provided as "Releases" and is not directly in the Git Repo.  Cloning this Git Repo will not provide any content.
 
